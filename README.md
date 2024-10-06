@@ -1,2 +1,2 @@
 # seq2seq-summarization
-text summarization using seq2seq model + lstm encoder/decoer
+text summarization using seq2seq model + transformers
