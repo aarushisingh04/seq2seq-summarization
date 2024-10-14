@@ -1,4 +1,4 @@
 # seq2seq-summarization
-text summarization using seq2seq model + transformers
+text summarization using PEGASUS (seq2seq + transformers)
 
 dataset : https://huggingface.co/datasets/Yale-LILY/aeslc 
