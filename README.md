@@ -11,4 +11,5 @@ References and Sources :
 1. arXiv:1912.08777v3 [cs.CL] | PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization by Jingqing Zhang, Yao Zhao, Mohammad Saleh, Peter J. Liu
 2. https://github.com/google-research/pegasus
 3. https://github.com/Tuhin-SnapD/Text-Summarization-Models/blob/main/Models%20Used%20in%20Proposed%20Architecture/all-12-pegasus-models.ipynb
+4. CNN/DailyMail Finetuning : https://github.com/jankovidakovic/pegasus-fine-tuning
 
