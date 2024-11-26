@@ -12,4 +12,5 @@ References and Sources :
 2. https://github.com/google-research/pegasus
 3. https://github.com/Tuhin-SnapD/Text-Summarization-Models/blob/main/Models%20Used%20in%20Proposed%20Architecture/all-12-pegasus-models.ipynb
 4. CNN/DailyMail Finetuning : https://github.com/jankovidakovic/pegasus-fine-tuning
+5. Legal Document Finetuning : https://github.com/MylieMudaliyar/-Legal-Document-Understanding-Assistant-using-LLMs
 
